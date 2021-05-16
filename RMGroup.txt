@@ -1,0 +1,501 @@
+"Customer" "TypeOfCustomer" "Items" "Net.Sales" "MethodOfPayment" "Gender" "Marital.Status" "Age" "Level" "HolidaySales"
+"1" 1 "Regular" 10 129.1 "MasterCard" "Male" "Divorced" 61 300 144.776492545523
+"2" 2 "Promotional" 1 275.47 "Visa" "Female" "Married" 27 100 293.98713040381
+"3" 3 "Promotional" 3 104.35 "Visa" "Male" "Married" 51 300 119.686013725626
+"4" 4 "Regular" 1 205.54 "MasterCard" "Female" "Divorced" 87 200 215.715350831688
+"5" 5 "Promotional" 6 292.64 "MasterCard" "Male" "Divorced" 47 100 310.020003693327
+"6" 6 "Regular" 8 200.35 "Proprietary Card" "Male" "Never married" 71 200 213.971992972249
+"7" 7 "Promotional" 4 144.65 "Discover" "Male" "Never married" 44 100 149.934115254228
+"8" 8 "Regular" 4 233.84 "Proprietary Card" "Female" "Married" 38 100 255.791853137934
+"9" 9 "Promotional" 2 265.82 "MasterCard" "Female" "Divorced" 48 300 302.31974376946
+"10" 10 "Promotional" 1 221.53 "Visa" "Female" "Never married" 27 200 221.087592622293
+"11" 11 "Promotional" 3 254.24 "Discover" "Male" "Married" 77 200 272.720429701639
+"12" 12 "Regular" 6 282.11 "Proprietary Card" "Male" "Divorced" 41 400 299.590921831313
+"13" 13 "Regular" 2 259.34 "MasterCard" "Female" "Divorced" 78 400 255.928713350464
+"14" 14 "Regular" 3 185.33 "Visa" "Female" "Divorced" 23 100 180.216607080193
+"15" 15 "Promotional" 3 119.67 "Discover" "Male" "Married" 52 200 127.493323459326
+"16" 16 "Promotional" 7 140.92 "Discover" "Male" "Never married" 36 100 144.977642589741
+"17" 17 "Regular" 7 113 "MasterCard" "Female" "Married" 21 100 126.064753954245
+"18" 18 "Promotional" 3 159.94 "Discover" "Male" "Never married" 40 200 182.703479204283
+"19" 19 "Regular" 5 111.84 "MasterCard" "Female" "Married" 19 100 149.053346384561
+"20" 20 "Regular" 3 165.92 "Visa" "Female" "Married" 57 100 162.296756512051
+"21" 21 "Regular" 2 237.12 "Visa" "Male" "Divorced" 53 100 263.112346154622
+"22" 22 "Promotional" 3 117.07 "MasterCard" "Female" "Never married" 27 400 143.71138569297
+"23" 23 "Regular" 2 140.41 "Visa" "Male" "Never married" 78 100 167.310026583565
+"24" 24 "Regular" 2 115.76 "Visa" "Female" "Divorced" 55 200 145.252599356275
+"25" 25 "Promotional" 4 240.33 "MasterCard" "Male" "Married" 61 300 269.743113249294
+"26" 26 "Regular" 3 130.05 "Visa" "Female" "Divorced" 35 300 157.400859998307
+"27" 27 "Regular" 1 172.58 "Discover" "Male" "Never married" 77 400 180.100188839901
+"28" 28 "Promotional" 2 256.15 "Visa" "Male" "Never married" 42 400 262.620130596306
+"29" 29 "Regular" 2 204.68 "Proprietary Card" "Female" "Divorced" 57 200 204.447939767846
+"30" 30 "Promotional" 4 167.26 "Visa" "Female" "Divorced" 49 400 184.325505073527
+"31" 31 "Regular" 5 164.82 "Proprietary Card" "Female" "Divorced" 61 200 176.875226831789
+"32" 32 "Promotional" 7 264.28 "Visa" "Male" "Divorced" 41 400 281.854446047207
+"33" 33 "Promotional" 7 235.41 "Discover" "Male" "Divorced" 55 200 247.432732776787
+"34" 34 "Promotional" 7 224.81 "MasterCard" "Male" "Divorced" 40 200 241.836887749865
+"35" 35 "Regular" 7 259.34 "Proprietary Card" "Female" "Married" 61 100 267.508222593195
+"36" 36 "Promotional" 8 230.88 "Visa" "Female" "Never married" 67 100 239.608528992002
+"37" 37 "Regular" 10 119.1 "MasterCard" "Male" "Divorced" 58 200 137.013521743136
+"38" 38 "Promotional" 9 221.36 "Discover" "Female" "Married" 65 100 231.204084073592
+"39" 39 "Regular" 10 285.77 "Discover" "Male" "Never married" 71 100 309.936072188536
+"40" 40 "Regular" 3 251.05 "Visa" "Female" "Divorced" 40 400 255.848707707238
+"41" 41 "Promotional" 10 105.23 "Proprietary Card" "Female" "Divorced" 49 100 123.259455997204
+"42" 42 "Regular" 1 198.99 "Discover" "Female" "Divorced" 57 100 229.647087697937
+"43" 43 "Promotional" 9 183.28 "MasterCard" "Female" "Divorced" 75 400 189.133014837425
+"44" 44 "Regular" 2 271.14 "Discover" "Female" "Married" 40 200 284.302210170831
+"45" 45 "Regular" 7 243.27 "MasterCard" "Female" "Married" 38 300 247.661612781161
+"46" 46 "Regular" 4 150.78 "MasterCard" "Male" "Never married" 31 400 164.352384047627
+"47" 47 "Promotional" 9 141.28 "Visa" "Male" "Never married" 68 200 144.854360297263
+"48" 48 "Promotional" 2 278.65 "Discover" "Male" "Divorced" 47 400 290.83054230945
+"49" 49 "Promotional" 6 298.24 "Proprietary Card" "Male" "Divorced" 56 300 318.062336636192
+"50" 50 "Promotional" 2 205.73 "Proprietary Card" "Male" "Divorced" 66 400 215.249885797555
+"51" 51 "Regular" 10 274.56 "Proprietary Card" "Male" "Never married" 43 100 283.607526860787
+"52" 52 "Promotional" 3 251.33 "MasterCard" "Male" "Never married" 78 200 271.739434941723
+"53" 53 "Promotional" 5 133.56 "Discover" "Female" "Never married" 73 100 156.754155023009
+"54" 54 "Promotional" 4 160.08 "Discover" "Male" "Divorced" 76 100 174.26839075376
+"55" 55 "Promotional" 5 173.68 "Proprietary Card" "Female" "Divorced" 18 300 182.497326040774
+"56" 56 "Promotional" 6 272.74 "MasterCard" "Male" "Divorced" 37 100 299.49892319878
+"57" 57 "Promotional" 7 278.58 "MasterCard" "Male" "Never married" 39 200 297.313399712516
+"58" 58 "Promotional" 3 190.04 "Visa" "Female" "Never married" 78 300 213.019540782233
+"59" 59 "Regular" 5 146.02 "Visa" "Female" "Divorced" 62 300 166.524755279048
+"60" 60 "Regular" 1 258.4 "Visa" "Male" "Married" 45 300 280.227297219581
+"61" 61 "Promotional" 5 278.65 "Discover" "Female" "Never married" 60 200 286.502012972413
+"62" 62 "Regular" 5 223.89 "Visa" "Male" "Never married" 24 300 248.239716581618
+"63" 63 "Promotional" 10 184.13 "Discover" "Female" "Never married" 27 100 197.352869233823
+"64" 64 "Promotional" 6 243.31 "Visa" "Female" "Divorced" 78 400 251.355611360461
+"65" 65 "Regular" 6 139.62 "MasterCard" "Male" "Married" 44 100 158.981531954032
+"66" 66 "Regular" 3 230.9 "Proprietary Card" "Male" "Married" 84 100 238.295415083847
+"67" 67 "Regular" 5 105.23 "Discover" "Male" "Married" 47 100 134.694625988862
+"68" 68 "Promotional" 6 250.09 "Visa" "Female" "Married" 62 400 258.276932479314
+"69" 69 "Promotional" 3 288.57 "MasterCard" "Male" "Married" 72 300 284.862712626727
+"70" 70 "Regular" 3 201.84 "Discover" "Male" "Married" 48 200 224.699894103896
+"71" 71 "Promotional" 10 146.42 "MasterCard" "Male" "Married" 28 300 174.768104361833
+"72" 72 "Regular" 5 275.47 "Visa" "Male" "Divorced" 43 300 289.75993780623
+"73" 73 "Promotional" 1 206.12 "Discover" "Female" "Married" 29 400 215.374599414297
+"74" 74 "Regular" 1 206.12 "Discover" "Male" "Divorced" 39 300 208.849694025239
+"75" 75 "Regular" 3 104.65 "Discover" "Female" "Never married" 86 400 122.578849496455
+"76" 76 "Promotional" 8 270.85 "Discover" "Male" "Divorced" 57 400 271.499113192402
+"77" 77 "Regular" 10 262.38 "Discover" "Female" "Married" 35 200 286.352963200505
+"78" 78 "Regular" 1 167.68 "Discover" "Male" "Divorced" 50 100 170.191402414808
+"79" 79 "Promotional" 7 179.67 "MasterCard" "Female" "Married" 65 300 196.008987015845
+"80" 80 "Regular" 9 173.99 "Discover" "Female" "Never married" 75 200 178.391661291438
+"81" 81 "Regular" 1 222.45 "MasterCard" "Female" "Divorced" 72 200 234.555964789217
+"82" 82 "Regular" 8 265.82 "Discover" "Male" "Never married" 62 100 279.848552536441
+"83" 83 "Promotional" 4 172.04 "Visa" "Female" "Never married" 74 100 175.847473372932
+"84" 84 "Regular" 9 186.9 "Discover" "Male" "Divorced" 51 300 204.522633604279
+"85" 85 "Promotional" 5 113 "MasterCard" "Male" "Divorced" 85 300 139.398481432625
+"86" 86 "Regular" 1 224.81 "Proprietary Card" "Male" "Married" 24 300 228.662598453444
+"87" 87 "Regular" 2 129.13 "Discover" "Male" "Divorced" 78 400 136.935199707981
+"88" 88 "Regular" 1 264.28 "Discover" "Male" "Married" 25 200 285.125280363879
+"89" 89 "Promotional" 3 281.14 "MasterCard" "Male" "Never married" 44 400 294.21925112717
+"90" 90 "Promotional" 10 235.41 "Proprietary Card" "Male" "Married" 23 100 245.056929565799
+"91" 91 "Promotional" 2 117.07 "Visa" "Female" "Never married" 35 400 130.091516969187
+"92" 92 "Promotional" 7 220.4 "Discover" "Female" "Divorced" 38 300 223.984220419195
+"93" 93 "Regular" 1 251.6 "MasterCard" "Female" "Never married" 88 100 265.507290769649
+"94" 94 "Regular" 3 285.55 "Discover" "Male" "Never married" 29 100 300.978005903344
+"95" 95 "Promotional" 10 242.56 "Visa" "Female" "Married" 73 400 252.88609593438
+"96" 96 "Regular" 9 165.92 "MasterCard" "Male" "Divorced" 21 300 178.968646993002
+"97" 97 "Promotional" 2 148.85 "Discover" "Female" "Married" 72 100 160.639551941545
+"98" 98 "Regular" 6 189.97 "Discover" "Female" "Married" 45 400 212.314959971607
+"99" 99 "Regular" 6 192.93 "Proprietary Card" "Male" "Married" 70 400 216.208629252153
+"100" 100 "Regular" 2 150.88 "Visa" "Male" "Never married" 75 400 160.755065359966
+"101" 101 "Promotional" 8 294.17 "Proprietary Card" "Female" "Married" 41 300 306.870366524925
+"102" 102 "Promotional" 5 243.27 "Proprietary Card" "Female" "Divorced" 82 100 248.345544031977
+"103" 103 "Regular" 7 145.76 "MasterCard" "Female" "Never married" 33 200 165.199492769211
+"104" 104 "Regular" 6 208.36 "MasterCard" "Female" "Divorced" 47 100 223.314475035184
+"105" 105 "Promotional" 1 292.8 "Discover" "Male" "Married" 84 100 288.613356119118
+"106" 106 "Regular" 9 125.85 "Discover" "Male" "Never married" 86 400 155.802088637748
+"107" 107 "Promotional" 6 299.95 "Proprietary Card" "Male" "Married" 85 200 307.73816675925
+"108" 108 "Promotional" 7 283.53 "MasterCard" "Female" "Married" 83 200 295.439356081825
+"109" 109 "Regular" 5 107.28 "MasterCard" "Female" "Married" 80 100 110.380022930964
+"110" 110 "Promotional" 6 199.39 "Discover" "Female" "Divorced" 84 100 219.052506021019
+"111" 111 "Regular" 8 168.14 "Proprietary Card" "Male" "Never married" 80 100 180.183906651304
+"112" 112 "Promotional" 10 151.58 "Discover" "Female" "Married" 34 300 153.211353690076
+"113" 113 "Promotional" 8 218.89 "Visa" "Female" "Divorced" 86 300 228.056750589483
+"114" 114 "Promotional" 9 242.45 "MasterCard" "Female" "Divorced" 65 100 277.801046822003
+"115" 115 "Promotional" 8 295.89 "MasterCard" "Male" "Divorced" 38 200 297.890948720088
+"116" 116 "Promotional" 10 281.87 "MasterCard" "Male" "Married" 54 400 320.481992064722
+"117" 117 "Regular" 9 258.4 "Visa" "Male" "Divorced" 50 400 270.854101695632
+"118" 118 "Regular" 8 151.27 "MasterCard" "Female" "Never married" 43 400 161.194051839966
+"119" 119 "Regular" 2 184.13 "MasterCard" "Male" "Married" 39 300 210.174514772291
+"120" 120 "Promotional" 6 140.72 "MasterCard" "Female" "Married" 67 100 153.84982758428
+"121" 121 "Promotional" 7 296.13 "Proprietary Card" "Male" "Married" 44 100 307.710589964991
+"122" 122 "Promotional" 4 269.97 "MasterCard" "Male" "Married" 39 100 286.146955797312
+"123" 123 "Regular" 3 279.82 "Visa" "Male" "Divorced" 41 200 289.707620834814
+"124" 124 "Promotional" 7 239.17 "Discover" "Male" "Never married" 18 100 250.078838900877
+"125" 125 "Promotional" 1 168.61 "Proprietary Card" "Female" "Never married" 36 300 164.428180401921
+"126" 126 "Promotional" 10 140.92 "Discover" "Male" "Never married" 71 100 155.627713079618
+"127" 127 "Regular" 7 260.65 "Proprietary Card" "Female" "Never married" 64 400 284.891667104802
+"128" 128 "Promotional" 6 174.71 "MasterCard" "Female" "Divorced" 31 300 184.8911003121
+"129" 129 "Promotional" 10 123.12 "Visa" "Male" "Married" 30 100 156.679999368676
+"130" 130 "Regular" 7 227.87 "MasterCard" "Male" "Married" 65 300 232.862925059501
+"131" 131 "Regular" 5 192.64 "MasterCard" "Female" "Divorced" 34 400 220.630391874422
+"132" 132 "Promotional" 5 221.36 "Proprietary Card" "Male" "Divorced" 63 100 230.342671479748
+"133" 133 "Promotional" 8 267.06 "Proprietary Card" "Female" "Married" 84 300 289.521239434146
+"134" 134 "Regular" 3 253.97 "Proprietary Card" "Female" "Divorced" 61 400 263.520832851566
+"135" 135 "Promotional" 1 178.2 "Proprietary Card" "Male" "Never married" 23 400 190.251236933194
+"136" 136 "Promotional" 6 189.97 "Visa" "Male" "Divorced" 33 400 204.489965239032
+"137" 137 "Regular" 10 263.18 "Discover" "Male" "Married" 75 400 273.354524153529
+"138" 138 "Regular" 10 101.64 "Proprietary Card" "Male" "Divorced" 45 200 120.619915872183
+"139" 139 "Regular" 7 193.49 "Visa" "Female" "Never married" 25 300 202.105505183155
+"140" 140 "Regular" 2 103.01 "Proprietary Card" "Female" "Divorced" 57 400 113.531652130365
+"141" 141 "Promotional" 2 259.35 "Visa" "Male" "Divorced" 26 100 280.651044804997
+"142" 142 "Promotional" 4 260.9 "Proprietary Card" "Male" "Never married" 25 200 268.34703649891
+"143" 143 "Regular" 9 192.93 "Discover" "Female" "Divorced" 20 400 227.376588195871
+"144" 144 "Promotional" 6 206.11 "Visa" "Female" "Married" 40 400 209.471799161392
+"145" 145 "Regular" 9 239.17 "Visa" "Female" "Married" 68 300 246.035424428245
+"146" 146 "Promotional" 2 138.25 "Visa" "Female" "Divorced" 49 200 144.472195686345
+"147" 147 "Regular" 7 266.23 "Proprietary Card" "Female" "Married" 32 300 270.548061658709
+"148" 148 "Regular" 9 140.64 "Proprietary Card" "Female" "Divorced" 23 400 158.419545671968
+"149" 149 "Regular" 5 117.29 "Visa" "Male" "Divorced" 61 200 139.860731882613
+"150" 150 "Regular" 10 242.72 "Visa" "Female" "Divorced" 75 100 259.476798818497
+"151" 151 "Regular" 1 261.44 "MasterCard" "Male" "Divorced" 80 200 280.076227463289
+"152" 152 "Promotional" 1 198.63 "Proprietary Card" "Male" "Married" 57 300 217.422627959602
+"153" 153 "Promotional" 6 151.27 "Visa" "Male" "Divorced" 82 100 164.947307492544
+"154" 154 "Promotional" 9 125.37 "MasterCard" "Male" "Married" 79 300 142.403723225697
+"155" 155 "Regular" 7 173.99 "MasterCard" "Female" "Divorced" 42 300 162.231271260361
+"156" 156 "Promotional" 9 224.88 "MasterCard" "Male" "Married" 82 100 242.536221689778
+"157" 157 "Regular" 3 153.4 "Visa" "Female" "Never married" 85 200 166.688819365476
+"158" 158 "Promotional" 10 194.7 "Proprietary Card" "Male" "Divorced" 77 100 228.381189758047
+"159" 159 "Promotional" 6 150.52 "MasterCard" "Male" "Married" 32 200 167.654722010996
+"160" 160 "Regular" 3 111.84 "MasterCard" "Female" "Married" 55 300 133.275761742519
+"161" 161 "Regular" 9 195.13 "Discover" "Male" "Married" 51 400 210.832839276365
+"162" 162 "Promotional" 1 119.56 "MasterCard" "Male" "Married" 59 400 135.54990458497
+"163" 163 "Regular" 9 155.99 "MasterCard" "Male" "Never married" 72 300 166.417253352715
+"164" 164 "Promotional" 1 284.8 "MasterCard" "Female" "Married" 28 200 278.317630347749
+"165" 165 "Promotional" 10 162.08 "MasterCard" "Male" "Never married" 61 400 182.372588351195
+"166" 166 "Promotional" 3 207.51 "MasterCard" "Female" "Never married" 83 300 222.02412671029
+"167" 167 "Regular" 3 107.81 "MasterCard" "Male" "Never married" 64 300 115.828112278725
+"168" 168 "Promotional" 2 260.38 "Visa" "Female" "Never married" 18 200 273.874810231057
+"169" 169 "Promotional" 10 184.13 "Discover" "Male" "Married" 48 400 202.510848346582
+"170" 170 "Promotional" 4 262.94 "Discover" "Male" "Divorced" 62 200 279.259702123651
+"171" 171 "Promotional" 5 157.38 "Proprietary Card" "Male" "Never married" 28 100 167.160166907314
+"172" 172 "Regular" 4 233.91 "MasterCard" "Male" "Divorced" 18 200 237.719775376059
+"173" 173 "Regular" 9 198.13 "Proprietary Card" "Male" "Married" 84 100 216.770054986802
+"174" 174 "Promotional" 5 205.18 "Discover" "Female" "Never married" 33 200 224.714875685975
+"175" 175 "Promotional" 2 237.99 "Discover" "Female" "Never married" 31 300 263.2462854152
+"176" 176 "Promotional" 10 185.33 "MasterCard" "Male" "Divorced" 49 100 199.458233795562
+"177" 177 "Promotional" 4 243.73 "MasterCard" "Female" "Married" 47 400 249.974052733086
+"178" 178 "Promotional" 9 225.34 "MasterCard" "Female" "Never married" 62 300 237.756493828568
+"179" 179 "Regular" 5 131.52 "Proprietary Card" "Female" "Married" 60 400 137.607079421565
+"180" 180 "Regular" 2 140.53 "MasterCard" "Female" "Divorced" 83 400 157.249566234751
+"181" 181 "Regular" 1 202.93 "Proprietary Card" "Male" "Married" 59 300 213.307856491009
+"182" 182 "Promotional" 5 201.23 "MasterCard" "Male" "Divorced" 19 100 201.182128682004
+"183" 183 "Regular" 4 235.55 "MasterCard" "Male" "Divorced" 48 200 248.620595282835
+"184" 184 "Promotional" 8 279.82 "Proprietary Card" "Female" "Married" 35 100 275.664666668463
+"185" 185 "Promotional" 10 253.99 "MasterCard" "Female" "Divorced" 57 300 266.243511876497
+"186" 186 "Promotional" 8 233.84 "Proprietary Card" "Male" "Never married" 59 100 243.39960524109
+"187" 187 "Promotional" 7 228.4 "Visa" "Male" "Never married" 51 200 234.282430239361
+"188" 188 "Regular" 3 267.76 "Proprietary Card" "Male" "Married" 45 200 280.808926142042
+"189" 189 "Promotional" 3 260.65 "MasterCard" "Female" "Divorced" 74 200 282.263805104671
+"190" 190 "Promotional" 5 236.86 "Discover" "Female" "Married" 88 300 246.69489398593
+"191" 191 "Regular" 8 284.13 "MasterCard" "Female" "Divorced" 30 100 285.113231647681
+"192" 192 "Regular" 7 150.52 "Proprietary Card" "Female" "Married" 21 300 169.354497622759
+"193" 193 "Promotional" 4 258.65 "Proprietary Card" "Male" "Never married" 76 300 267.950934172913
+"194" 194 "Regular" 8 215.1 "MasterCard" "Male" "Never married" 27 300 243.735680957252
+"195" 195 "Promotional" 2 238.73 "MasterCard" "Male" "Divorced" 73 200 244.847692100898
+"196" 196 "Regular" 3 274.53 "Discover" "Male" "Never married" 76 400 284.719951073492
+"197" 197 "Promotional" 7 238.71 "Proprietary Card" "Female" "Married" 40 300 257.974191850561
+"198" 198 "Promotional" 4 198.63 "Discover" "Female" "Never married" 55 300 214.842146777897
+"199" 199 "Regular" 7 193.24 "MasterCard" "Male" "Married" 41 100 207.413768496943
+"200" 200 "Promotional" 4 260.38 "MasterCard" "Male" "Married" 63 300 275.187196443775
+"201" 201 "Regular" 4 254.21 "Discover" "Male" "Married" 44 300 252.660428167804
+"202" 202 "Promotional" 6 119.56 "MasterCard" "Female" "Divorced" 49 400 130.934722683079
+"203" 203 "Promotional" 1 205.37 "Proprietary Card" "Male" "Married" 88 100 220.848869464837
+"204" 204 "Regular" 4 296.96 "MasterCard" "Male" "Divorced" 57 200 310.149408741994
+"205" 205 "Promotional" 10 219.17 "Discover" "Female" "Never married" 79 400 248.820951595325
+"206" 206 "Promotional" 10 298.24 "Visa" "Male" "Married" 22 100 312.632889138297
+"207" 207 "Regular" 4 131.46 "Discover" "Female" "Divorced" 85 300 148.502103123442
+"208" 208 "Promotional" 5 281.87 "Discover" "Female" "Married" 86 100 281.067218421923
+"209" 209 "Regular" 2 238.71 "Discover" "Male" "Divorced" 81 400 257.354843485426
+"210" 210 "Promotional" 7 110.09 "Discover" "Female" "Married" 42 200 126.843568612168
+"211" 211 "Promotional" 8 133.56 "MasterCard" "Female" "Never married" 33 100 144.070646378564
+"212" 212 "Regular" 4 129.5 "Proprietary Card" "Female" "Divorced" 19 400 145.495275279925
+"213" 213 "Regular" 7 298.22 "MasterCard" "Female" "Never married" 69 400 315.387825913814
+"214" 214 "Regular" 9 259.83 "Visa" "Male" "Divorced" 82 100 284.962138458088
+"215" 215 "Promotional" 1 167.26 "Visa" "Male" "Divorced" 56 400 168.539159922248
+"216" 216 "Promotional" 10 254.24 "Proprietary Card" "Female" "Divorced" 86 300 272.397140052086
+"217" 217 "Regular" 5 232.42 "Discover" "Female" "Married" 26 200 252.696144834011
+"218" 218 "Promotional" 1 280.95 "Discover" "Male" "Never married" 38 200 279.41045357647
+"219" 219 "Regular" 5 108.12 "Discover" "Male" "Never married" 78 100 123.723965533475
+"220" 220 "Regular" 2 236.19 "MasterCard" "Male" "Never married" 77 200 260.15503684673
+"221" 221 "Regular" 6 241.08 "Visa" "Female" "Divorced" 65 100 255.082719644031
+"222" 222 "Promotional" 8 149.19 "Visa" "Female" "Never married" 48 200 159.749300164419
+"223" 223 "Promotional" 9 179.67 "Visa" "Female" "Divorced" 23 100 181.660724516256
+"224" 224 "Promotional" 6 140.64 "Visa" "Female" "Never married" 44 400 148.310407652053
+"225" 225 "Promotional" 10 172.13 "MasterCard" "Male" "Married" 26 200 163.032631086883
+"226" 226 "Regular" 3 164.7 "Proprietary Card" "Male" "Divorced" 84 400 184.294507195726
+"227" 227 "Promotional" 8 168.14 "Visa" "Male" "Never married" 72 400 179.76257833101
+"228" 228 "Regular" 3 139.62 "Discover" "Male" "Never married" 23 300 149.964969138953
+"229" 229 "Regular" 8 150.78 "Discover" "Female" "Never married" 62 100 158.4515997679
+"230" 230 "Regular" 4 253.99 "Discover" "Female" "Married" 79 200 266.551500768004
+"231" 231 "Regular" 5 104.37 "Discover" "Female" "Never married" 21 300 134.704796047534
+"232" 232 "Regular" 8 183.34 "Visa" "Female" "Married" 31 300 199.60811611651
+"233" 233 "Promotional" 10 232.45 "Discover" "Female" "Married" 60 300 244.584032183994
+"234" 234 "Regular" 2 108.12 "Proprietary Card" "Female" "Married" 18 300 128.144034484901
+"235" 235 "Promotional" 1 263.18 "Discover" "Female" "Divorced" 72 300 284.675539726039
+"236" 236 "Promotional" 5 182.97 "Discover" "Female" "Married" 41 300 198.255873655411
+"237" 237 "Promotional" 5 100.5 "Discover" "Male" "Never married" 43 400 116.562877112567
+"238" 238 "Promotional" 7 193.5 "MasterCard" "Female" "Married" 85 400 226.42229566211
+"239" 239 "Regular" 5 172.13 "MasterCard" "Male" "Never married" 39 300 186.442289413391
+"240" 240 "Regular" 3 254.21 "Discover" "Female" "Married" 68 100 267.985580020952
+"241" 241 "Regular" 3 218.33 "Visa" "Female" "Divorced" 42 300 241.934391068272
+"242" 242 "Regular" 6 282.9 "Proprietary Card" "Female" "Never married" 31 400 307.022561957999
+"243" 243 "Regular" 3 242.56 "MasterCard" "Female" "Married" 38 300 263.737343192525
+"244" 244 "Promotional" 5 291.17 "Discover" "Male" "Divorced" 43 300 309.336558429086
+"245" 245 "Regular" 2 237.12 "MasterCard" "Female" "Divorced" 45 100 265.812494305576
+"246" 246 "Promotional" 7 229.98 "Visa" "Female" "Never married" 32 200 240.855144124295
+"247" 247 "Promotional" 3 129.1 "Visa" "Male" "Divorced" 68 400 143.393186052797
+"248" 248 "Promotional" 8 218.7 "Discover" "Female" "Never married" 83 100 231.3606631852
+"249" 249 "Promotional" 5 250.09 "Visa" "Male" "Divorced" 45 400 259.466041333335
+"250" 250 "Promotional" 10 139.36 "Proprietary Card" "Female" "Never married" 33 200 136.33062625906
+"251" 251 "Regular" 9 173.18 "Discover" "Male" "Married" 57 100 175.008448860221
+"252" 252 "Regular" 1 201.84 "Proprietary Card" "Male" "Married" 87 300 208.001703644557
+"253" 253 "Regular" 3 131.52 "Visa" "Female" "Divorced" 42 100 139.010434716424
+"254" 254 "Promotional" 10 107.28 "Visa" "Male" "Never married" 79 400 133.953751281848
+"255" 255 "Regular" 1 172.21 "MasterCard" "Male" "Married" 65 300 204.193738463428
+"256" 256 "Regular" 1 289.93 "Discover" "Female" "Divorced" 25 400 301.98641696934
+"257" 257 "Promotional" 4 268.44 "Proprietary Card" "Male" "Divorced" 18 400 281.928421018096
+"258" 258 "Regular" 9 266.01 "Proprietary Card" "Female" "Married" 65 300 282.542230204887
+"259" 259 "Promotional" 4 245.1 "Visa" "Female" "Married" 62 200 251.555838343643
+"260" 260 "Promotional" 2 117.29 "MasterCard" "Male" "Married" 56 400 136.433663162819
+"261" 261 "Regular" 3 292.99 "MasterCard" "Female" "Married" 76 200 294.896896542665
+"262" 262 "Promotional" 4 110.09 "Visa" "Female" "Divorced" 78 100 122.355125168146
+"263" 263 "Promotional" 6 295.04 "Proprietary Card" "Male" "Never married" 76 200 306.089314375167
+"264" 264 "Promotional" 1 195.47 "Visa" "Female" "Divorced" 69 200 224.528617750739
+"265" 265 "Regular" 4 198.13 "MasterCard" "Male" "Never married" 80 300 194.627947264103
+"266" 266 "Promotional" 2 162.73 "MasterCard" "Male" "Never married" 64 300 176.756709955666
+"267" 267 "Promotional" 9 143.79 "Discover" "Male" "Divorced" 37 200 146.535719847602
+"268" 268 "Promotional" 6 150.88 "MasterCard" "Male" "Never married" 80 300 160.871150666632
+"269" 269 "Promotional" 6 165.62 "Visa" "Female" "Never married" 80 300 168.922966700163
+"270" 270 "Regular" 6 233.91 "Discover" "Female" "Divorced" 35 400 246.319314187007
+"271" 271 "Regular" 4 253.42 "Proprietary Card" "Female" "Divorced" 58 200 272.91524672537
+"272" 272 "Regular" 5 279.2 "Discover" "Male" "Never married" 88 100 299.100643160764
+"273" 273 "Promotional" 6 104.35 "MasterCard" "Female" "Never married" 52 200 119.308862583789
+"274" 274 "Regular" 8 265.82 "Proprietary Card" "Female" "Married" 64 400 291.842786690851
+"275" 275 "Promotional" 5 133.68 "MasterCard" "Male" "Divorced" 34 300 135.864613303172
+"276" 276 "Promotional" 4 104.47 "MasterCard" "Female" "Divorced" 49 400 112.814906702494
+"277" 277 "Promotional" 1 119.67 "Discover" "Male" "Married" 56 400 130.652505907137
+"278" 278 "Regular" 10 191.15 "Discover" "Female" "Divorced" 61 300 196.186193310298
+"279" 279 "Regular" 10 171.07 "Discover" "Female" "Divorced" 86 200 176.8014563786
+"280" 280 "Promotional" 1 221.53 "Visa" "Female" "Married" 23 400 226.284596506311
+"281" 281 "Regular" 5 193.49 "Visa" "Male" "Married" 58 200 198.865505118633
+"282" 282 "Regular" 2 116.54 "Discover" "Male" "Married" 76 400 129.036344055646
+"283" 283 "Promotional" 5 222.35 "MasterCard" "Male" "Never married" 73 100 238.715420357621
+"284" 284 "Promotional" 7 261.44 "Visa" "Male" "Divorced" 84 400 291.782104674669
+"285" 285 "Regular" 6 178.92 "Proprietary Card" "Male" "Married" 28 200 182.763627841282
+"286" 286 "Regular" 3 188.12 "Discover" "Female" "Married" 41 400 214.910104102524
+"287" 287 "Promotional" 10 252.09 "Proprietary Card" "Male" "Divorced" 73 400 280.189209199577
+"288" 288 "Regular" 3 178.2 "Proprietary Card" "Male" "Never married" 80 100 187.042501966612
+"289" 289 "Regular" 8 190.04 "Visa" "Female" "Divorced" 40 300 197.228082547902
+"290" 290 "Regular" 4 176.71 "Visa" "Male" "Never married" 39 400 186.754547432685
+"291" 291 "Promotional" 5 129.24 "Proprietary Card" "Male" "Married" 38 300 149.279383124734
+"292" 292 "Regular" 1 131.46 "MasterCard" "Female" "Married" 33 200 151.746311598744
+"293" 293 "Promotional" 5 200.35 "Discover" "Male" "Divorced" 81 400 225.245349598734
+"294" 294 "Regular" 10 295.89 "MasterCard" "Female" "Divorced" 81 200 291.38920905325
+"295" 295 "Regular" 9 138.25 "Visa" "Female" "Never married" 48 300 162.358215181261
+"296" 296 "Promotional" 10 272.74 "Proprietary Card" "Male" "Divorced" 87 100 285.573842106991
+"297" 297 "Promotional" 10 226.72 "Visa" "Male" "Never married" 81 200 254.578272456127
+"298" 298 "Regular" 3 173.68 "Proprietary Card" "Male" "Never married" 26 100 175.820221863952
+"299" 299 "Regular" 8 254.2 "Proprietary Card" "Male" "Married" 26 200 261.062411588875
+"300" 300 "Regular" 5 254.2 "Proprietary Card" "Female" "Never married" 34 100 262.15012515811
+"301" 301 "Regular" 8 187.93 "Discover" "Female" "Married" 51 400 194.490967494484
+"302" 302 "Regular" 7 178 "Discover" "Female" "Divorced" 69 300 212.114013157857
+"303" 303 "Promotional" 3 262.94 "Discover" "Male" "Divorced" 37 300 275.569578090651
+"304" 304 "Regular" 3 193.5 "Proprietary Card" "Female" "Divorced" 71 200 209.977527791633
+"305" 305 "Promotional" 7 201.23 "Discover" "Female" "Married" 63 100 212.718683591223
+"306" 306 "Promotional" 3 151.25 "MasterCard" "Male" "Divorced" 37 300 159.292631906324
+"307" 307 "Regular" 7 153.46 "Discover" "Male" "Divorced" 81 100 166.570022159416
+"308" 308 "Promotional" 7 112.06 "Proprietary Card" "Female" "Never married" 77 100 128.44505275197
+"309" 309 "Regular" 3 242.67 "MasterCard" "Female" "Married" 24 100 257.316148549605
+"310" 310 "Regular" 10 292.93 "Visa" "Male" "Never married" 18 100 310.612898846741
+"311" 311 "Regular" 3 295.04 "Discover" "Male" "Married" 85 200 314.131158294089
+"312" 312 "Regular" 8 207.3 "Visa" "Female" "Divorced" 24 200 215.804122420767
+"313" 313 "Promotional" 3 111.77 "Proprietary Card" "Male" "Divorced" 57 100 143.89522297624
+"314" 314 "Regular" 10 118.77 "MasterCard" "Male" "Married" 88 200 124.918624472958
+"315" 315 "Regular" 10 220.19 "MasterCard" "Male" "Divorced" 71 100 247.32190264228
+"316" 316 "Promotional" 5 206.11 "Visa" "Female" "Never married" 66 100 224.278091532934
+"317" 317 "Promotional" 10 278.81 "MasterCard" "Male" "Married" 54 100 290.20642533942
+"318" 318 "Promotional" 1 240.27 "MasterCard" "Female" "Married" 22 100 254.914297047001
+"319" 319 "Regular" 1 100.5 "Discover" "Female" "Never married" 87 200 108.202426349803
+"320" 320 "Regular" 1 187.68 "Visa" "Male" "Never married" 24 100 205.708146944351
+"321" 321 "Promotional" 10 218.7 "MasterCard" "Male" "Divorced" 27 100 223.376085811395
+"322" 322 "Promotional" 10 219.17 "Proprietary Card" "Female" "Divorced" 51 300 228.321014695071
+"323" 323 "Promotional" 9 226.72 "Visa" "Male" "Married" 23 100 234.501997118263
+"324" 324 "Promotional" 3 146.35 "MasterCard" "Female" "Married" 83 400 146.306574514133
+"325" 325 "Promotional" 3 246.48 "Proprietary Card" "Male" "Married" 75 400 267.874362861563
+"326" 326 "Promotional" 9 284.8 "Visa" "Female" "Never married" 46 200 301.562245140878
+"327" 327 "Regular" 9 236.86 "Visa" "Male" "Divorced" 85 200 262.965831058152
+"328" 328 "Promotional" 2 242.67 "Proprietary Card" "Female" "Married" 45 200 270.436033392521
+"329" 329 "Promotional" 9 172.21 "Discover" "Male" "Married" 87 400 187.221791938425
+"330" 330 "Promotional" 3 291.52 "Discover" "Male" "Never married" 58 400 309.713575030783
+"331" 331 "Promotional" 10 255.86 "Discover" "Male" "Divorced" 43 100 271.139020689
+"332" 332 "Promotional" 3 220.19 "Proprietary Card" "Female" "Married" 65 300 239.726566739977
+"333" 333 "Promotional" 5 126.92 "Discover" "Male" "Never married" 28 400 155.171237972564
+"334" 334 "Regular" 1 231.68 "MasterCard" "Male" "Married" 24 100 240.412609570259
+"335" 335 "Regular" 5 258.65 "Proprietary Card" "Male" "Divorced" 47 200 269.159872012466
+"336" 336 "Promotional" 6 245.1 "Discover" "Male" "Never married" 63 400 262.505320991681
+"337" 337 "Promotional" 7 141.4 "Discover" "Male" "Never married" 73 200 155.953214852976
+"338" 338 "Promotional" 2 242.45 "Visa" "Male" "Married" 52 300 258.156962034045
+"339" 339 "Promotional" 2 259.83 "Proprietary Card" "Male" "Never married" 32 400 265.331582810883
+"340" 340 "Regular" 5 123.01 "Proprietary Card" "Male" "Divorced" 47 400 144.613609303446
+"341" 341 "Regular" 2 233.59 "Visa" "Female" "Divorced" 46 300 254.690392240505
+"342" 342 "Regular" 3 252.09 "Visa" "Male" "Divorced" 23 400 259.776447902458
+"343" 343 "Promotional" 7 174.91 "Discover" "Male" "Divorced" 36 300 186.427087314132
+"344" 344 "Regular" 2 129.5 "Visa" "Male" "Divorced" 72 300 140.232877089082
+"345" 345 "Promotional" 9 237.54 "Visa" "Male" "Divorced" 20 100 252.060995479043
+"346" 346 "Promotional" 7 126.92 "MasterCard" "Female" "Never married" 80 400 140.114061920992
+"347" 347 "Promotional" 1 240.27 "Discover" "Male" "Divorced" 38 200 266.99154004595
+"348" 348 "Regular" 10 180.88 "Discover" "Male" "Married" 82 200 195.648540479112
+"349" 349 "Promotional" 3 190.5 "Proprietary Card" "Female" "Never married" 56 300 207.524924288269
+"350" 350 "Promotional" 3 232.08 "MasterCard" "Female" "Married" 81 100 248.750073817341
+"351" 351 "Regular" 8 196.83 "Discover" "Female" "Divorced" 66 200 215.305629085612
+"352" 352 "Regular" 8 198.99 "Discover" "Female" "Never married" 56 400 207.517222377269
+"353" 353 "Regular" 6 232.08 "MasterCard" "Male" "Divorced" 51 100 236.301748551089
+"354" 354 "Promotional" 5 151.25 "Discover" "Female" "Never married" 36 100 174.72362050091
+"355" 355 "Regular" 1 247.88 "MasterCard" "Male" "Divorced" 24 300 284.993874960417
+"356" 356 "Regular" 5 282.48 "Visa" "Male" "Never married" 55 300 302.619018343436
+"357" 357 "Promotional" 10 257.14 "Discover" "Male" "Married" 79 300 274.27666421851
+"358" 358 "Regular" 5 104.65 "MasterCard" "Female" "Never married" 42 300 137.068019008623
+"359" 359 "Regular" 6 292.93 "Visa" "Female" "Divorced" 23 100 309.407072688431
+"360" 360 "Promotional" 6 292.99 "Proprietary Card" "Male" "Divorced" 47 100 311.562313989323
+"361" 361 "Promotional" 9 236.19 "MasterCard" "Female" "Divorced" 67 400 249.84530289059
+"362" 362 "Regular" 4 188.12 "Visa" "Female" "Married" 63 300 197.227361607259
+"363" 363 "Regular" 9 282.48 "Discover" "Female" "Divorced" 58 300 292.739540358544
+"364" 364 "Regular" 5 260.02 "Discover" "Female" "Divorced" 84 100 275.392413097512
+"365" 365 "Promotional" 9 232.45 "Visa" "Male" "Divorced" 68 300 243.885754529203
+"366" 366 "Promotional" 3 265.66 "Visa" "Male" "Never married" 76 100 280.774330592783
+"367" 367 "Regular" 4 174.71 "Visa" "Female" "Divorced" 39 200 201.47771417604
+"368" 368 "Promotional" 8 128.22 "MasterCard" "Female" "Divorced" 73 400 145.020099444273
+"369" 369 "Promotional" 3 105.15 "Visa" "Male" "Married" 85 200 111.820985094179
+"370" 370 "Regular" 7 197.79 "Visa" "Female" "Married" 41 400 207.081289572486
+"371" 371 "Regular" 2 128.22 "MasterCard" "Female" "Divorced" 30 100 126.706553484619
+"372" 372 "Promotional" 1 111.77 "MasterCard" "Male" "Married" 62 100 119.599686791696
+"373" 373 "Promotional" 2 157.38 "MasterCard" "Female" "Divorced" 52 400 173.950770610684
+"374" 374 "Promotional" 3 288.57 "Proprietary Card" "Male" "Never married" 85 300 298.505900303381
+"375" 375 "Promotional" 9 197.79 "Visa" "Male" "Divorced" 36 400 211.691938181259
+"376" 376 "Promotional" 10 298.22 "MasterCard" "Female" "Married" 81 200 316.152685535163
+"377" 377 "Promotional" 2 164.82 "Discover" "Female" "Married" 23 100 193.351215593247
+"378" 378 "Promotional" 5 149.35 "Visa" "Female" "Married" 80 400 160.621012459964
+"379" 379 "Regular" 8 237.99 "Visa" "Female" "Married" 20 400 240.081914643215
+"380" 380 "Regular" 7 199.39 "Visa" "Female" "Never married" 65 200 204.359006307006
+"381" 381 "Regular" 3 195.13 "MasterCard" "Female" "Divorced" 62 200 200.812311912968
+"382" 382 "Promotional" 3 229.98 "MasterCard" "Female" "Married" 56 200 236.694116323081
+"383" 383 "Regular" 7 243.31 "MasterCard" "Male" "Married" 55 300 250.502738551575
+"384" 384 "Regular" 2 286.02 "Discover" "Female" "Married" 24 200 296.270933573017
+"385" 385 "Promotional" 6 105.15 "MasterCard" "Male" "Divorced" 55 300 116.988283603049
+"386" 386 "Promotional" 2 174.91 "Visa" "Male" "Never married" 74 300 189.087073043773
+"387" 387 "Promotional" 10 298.56 "MasterCard" "Male" "Married" 70 300 317.27294731638
+"388" 388 "Regular" 4 242.72 "Visa" "Male" "Never married" 74 100 263.574054251297
+"389" 389 "Regular" 9 186.9 "MasterCard" "Male" "Married" 43 300 214.35261980807
+"390" 390 "Regular" 3 123.12 "Discover" "Male" "Divorced" 35 400 166.440603421847
+"391" 391 "Regular" 6 191.24 "MasterCard" "Female" "Divorced" 40 300 221.065882691934
+"392" 392 "Regular" 1 116.54 "Visa" "Female" "Married" 63 100 119.138985833587
+"393" 393 "Promotional" 3 144.36 "Visa" "Male" "Divorced" 22 200 145.300012086041
+"394" 394 "Regular" 7 113.04 "MasterCard" "Male" "Divorced" 87 400 131.865666738956
+"395" 395 "Regular" 2 207.51 "Visa" "Male" "Married" 29 200 235.808530175748
+"396" 396 "Regular" 9 260.02 "Proprietary Card" "Male" "Divorced" 30 200 292.195797415842
+"397" 397 "Regular" 3 237.74 "Discover" "Male" "Never married" 88 200 228.97995658953
+"398" 398 "Promotional" 5 164.05 "Discover" "Male" "Married" 46 400 184.07512299269
+"399" 399 "Promotional" 10 217.34 "MasterCard" "Female" "Married" 24 400 225.709727295527
+"400" 400 "Promotional" 1 259.01 "Visa" "Female" "Divorced" 53 200 278.205332126904
+"401" 401 "Regular" 10 222.35 "MasterCard" "Female" "Never married" 31 100 241.836095937655
+"402" 402 "Promotional" 5 182.85 "Discover" "Female" "Married" 72 100 210.730929960802
+"403" 403 "Regular" 9 197.23 "MasterCard" "Female" "Never married" 72 200 211.325774787665
+"404" 404 "Regular" 6 118.34 "MasterCard" "Male" "Never married" 77 400 142.44684733043
+"405" 405 "Regular" 9 187.68 "Discover" "Female" "Never married" 40 100 207.239818168703
+"406" 406 "Promotional" 1 160.08 "Discover" "Female" "Married" 84 200 173.982780328565
+"407" 407 "Promotional" 1 255.94 "Discover" "Female" "Divorced" 52 400 288.566178051077
+"408" 408 "Regular" 7 150.78 "Proprietary Card" "Male" "Married" 51 300 173.406560612549
+"409" 409 "Promotional" 4 255.86 "MasterCard" "Female" "Divorced" 48 100 273.721224482189
+"410" 410 "Regular" 6 198.25 "Discover" "Female" "Married" 32 100 211.240019852246
+"411" 411 "Promotional" 5 192.64 "Discover" "Female" "Married" 67 100 228.169073264437
+"412" 412 "Regular" 10 259.35 "Proprietary Card" "Male" "Married" 88 100 276.715340656057
+"413" 413 "Promotional" 10 296.13 "MasterCard" "Female" "Divorced" 43 200 282.290663828051
+"414" 414 "Regular" 4 112.06 "MasterCard" "Female" "Never married" 56 400 100.261299010919
+"415" 415 "Promotional" 2 130.05 "MasterCard" "Male" "Married" 65 100 148.420979819641
+"416" 416 "Regular" 7 268.2 "Discover" "Male" "Never married" 26 100 282.066830113981
+"417" 417 "Regular" 10 224.88 "Proprietary Card" "Female" "Never married" 40 300 243.249455708708
+"418" 418 "Regular" 1 246.48 "Visa" "Male" "Never married" 77 100 258.330903235978
+"419" 419 "Regular" 7 292.41 "Proprietary Card" "Male" "Divorced" 41 200 291.263774714777
+"420" 420 "Promotional" 10 243.73 "MasterCard" "Male" "Married" 29 400 255.804069305727
+"421" 421 "Regular" 1 289.93 "Proprietary Card" "Male" "Married" 18 300 318.843193631966
+"422" 422 "Regular" 5 232.42 "Discover" "Male" "Divorced" 63 200 246.448210103963
+"423" 423 "Promotional" 6 194.7 "Discover" "Male" "Divorced" 75 400 221.136647603929
+"424" 424 "Regular" 5 119.1 "Proprietary Card" "Female" "Divorced" 58 400 122.796925929117
+"425" 425 "Promotional" 8 271.14 "Discover" "Male" "Married" 81 100 283.845990761312
+"426" 426 "Promotional" 4 230.88 "MasterCard" "Male" "Married" 87 400 255.511725381064
+"427" 427 "Promotional" 4 282.11 "Discover" "Female" "Divorced" 72 400 277.676357224492
+"428" 428 "Regular" 5 294.17 "MasterCard" "Male" "Divorced" 77 300 293.019812674277
+"429" 429 "Regular" 4 217.34 "Discover" "Female" "Never married" 34 100 225.600191697157
+"430" 430 "Promotional" 4 251.05 "MasterCard" "Female" "Married" 83 100 265.242460466919
+"431" 431 "Promotional" 10 259.01 "Proprietary Card" "Male" "Divorced" 24 300 272.21718712199
+"432" 432 "Promotional" 8 278.58 "Discover" "Female" "Never married" 56 400 319.828473238154
+"433" 433 "Promotional" 5 237.54 "Proprietary Card" "Male" "Married" 19 300 253.884032120521
+"434" 434 "Promotional" 5 148.85 "Visa" "Male" "Married" 31 300 167.1235167366
+"435" 435 "Regular" 7 223.89 "Discover" "Male" "Married" 42 400 247.043829157636
+"436" 436 "Promotional" 7 176.71 "MasterCard" "Male" "Divorced" 34 100 201.406175091315
+"437" 437 "Regular" 3 296.96 "MasterCard" "Male" "Married" 67 100 309.042176848475
+"438" 438 "Regular" 8 260.9 "MasterCard" "Male" "Married" 82 200 257.826920637605
+"439" 439 "Promotional" 10 274.53 "MasterCard" "Female" "Never married" 30 300 281.818243267719
+"440" 440 "Regular" 7 295.22 "Visa" "Female" "Married" 70 200 305.422622027587
+"441" 441 "Regular" 9 128.67 "MasterCard" "Female" "Married" 27 200 136.504272460132
+"442" 442 "Regular" 7 176.53 "MasterCard" "Female" "Married" 29 300 192.119439119991
+"443" 443 "Regular" 9 125.37 "Discover" "Female" "Married" 85 200 139.156667174249
+"444" 444 "Regular" 5 106.56 "Discover" "Female" "Divorced" 73 200 106.339570391626
+"445" 445 "Regular" 9 207.3 "MasterCard" "Male" "Divorced" 29 400 224.511030212216
+"446" 446 "Regular" 2 196.83 "Discover" "Male" "Divorced" 77 300 194.385266598833
+"447" 447 "Promotional" 8 215.1 "MasterCard" "Female" "Divorced" 36 100 245.036685436227
+"448" 448 "Regular" 3 265.66 "Visa" "Female" "Married" 26 300 278.27838377129
+"449" 449 "Promotional" 9 251.33 "Visa" "Male" "Divorced" 40 300 254.96648459379
+"450" 450 "Regular" 7 233.59 "Proprietary Card" "Female" "Married" 77 400 249.150513292381
+"451" 451 "Regular" 1 115.76 "Discover" "Male" "Never married" 51 100 127.800807147585
+"452" 452 "Promotional" 8 140.41 "Discover" "Male" "Married" 66 300 157.63045767671
+"453" 453 "Regular" 5 147.56 "Visa" "Male" "Divorced" 85 400 157.596019178523
+"454" 454 "Promotional" 2 164.05 "Proprietary Card" "Male" "Never married" 38 100 175.787620190912
+"455" 455 "Promotional" 7 168.61 "Visa" "Male" "Married" 18 400 178.171794775419
+"456" 456 "Promotional" 9 298.56 "Proprietary Card" "Female" "Divorced" 21 300 318.013965098739
+"457" 457 "Regular" 8 115.3 "Proprietary Card" "Female" "Married" 18 400 119.803135727608
+"458" 458 "Regular" 8 274.89 "Discover" "Female" "Divorced" 54 300 288.779072796853
+"459" 459 "Regular" 4 141.4 "Visa" "Female" "Divorced" 68 100 163.908367149571
+"460" 460 "Regular" 6 176.53 "MasterCard" "Female" "Divorced" 33 300 180.983412966608
+"461" 461 "Regular" 10 182.85 "Discover" "Male" "Never married" 48 100 184.990320618202
+"462" 462 "Regular" 9 205.54 "Visa" "Male" "Divorced" 77 400 218.729613305826
+"463" 463 "Promotional" 6 190.5 "Proprietary Card" "Female" "Divorced" 75 300 205.701661072329
+"464" 464 "Promotional" 2 278.81 "MasterCard" "Male" "Divorced" 44 400 299.335848820692
+"465" 465 "Promotional" 4 113.04 "Discover" "Male" "Never married" 73 100 138.191552036876
+"466" 466 "Regular" 1 125.85 "MasterCard" "Female" "Married" 44 400 139.224163688595
+"467" 467 "Promotional" 10 211.21 "Discover" "Female" "Divorced" 50 300 221.148613441865
+"468" 468 "Promotional" 10 268.44 "Proprietary Card" "Male" "Married" 78 100 319.055872551819
+"469" 469 "Promotional" 6 186.59 "MasterCard" "Female" "Divorced" 45 200 209.625659286211
+"470" 470 "Promotional" 10 225.34 "Discover" "Male" "Married" 78 300 244.065973341618
+"471" 471 "Regular" 1 205.73 "Discover" "Male" "Married" 31 400 221.352203116127
+"472" 472 "Promotional" 8 291.59 "Proprietary Card" "Female" "Never married" 35 300 300.316198947225
+"473" 473 "Promotional" 7 220.4 "Proprietary Card" "Female" "Never married" 66 300 233.195666760331
+"474" 474 "Regular" 7 256.15 "Discover" "Male" "Divorced" 32 200 257.863992775709
+"475" 475 "Regular" 3 255.98 "MasterCard" "Male" "Never married" 55 300 255.396476879025
+"476" 476 "Regular" 9 103.01 "Discover" "Female" "Divorced" 45 400 108.058526875005
+"477" 477 "Promotional" 1 140.72 "Visa" "Female" "Never married" 52 100 167.609481724641
+"478" 478 "Regular" 3 169.88 "Visa" "Female" "Never married" 51 100 178.865989117904
+"479" 479 "Regular" 8 169.88 "Discover" "Male" "Divorced" 52 100 184.867698356875
+"480" 480 "Promotional" 2 104.37 "Visa" "Male" "Divorced" 80 200 110.549145315877
+"481" 481 "Regular" 9 201.45 "Discover" "Female" "Married" 22 200 227.24381857362
+"482" 482 "Regular" 2 292.41 "Visa" "Female" "Never married" 62 100 297.148956802975
+"483" 483 "Regular" 10 228.4 "Visa" "Female" "Divorced" 34 300 229.428537867397
+"484" 484 "Regular" 4 182.97 "Proprietary Card" "Male" "Divorced" 64 200 211.21042259667
+"485" 485 "Regular" 10 155.99 "Discover" "Male" "Divorced" 49 100 175.065749070017
+"486" 486 "Promotional" 9 164.7 "Visa" "Female" "Never married" 48 300 167.993168818715
+"487" 487 "Regular" 4 144.65 "Discover" "Female" "Married" 37 300 156.797182983171
+"488" 488 "Promotional" 7 283.53 "Proprietary Card" "Female" "Divorced" 57 400 292.439360261816
+"489" 489 "Regular" 4 128.05 "Visa" "Female" "Divorced" 72 100 168.196208424432
+"490" 490 "Regular" 4 196.54 "MasterCard" "Female" "Never married" 39 100 225.621399640983
+"491" 491 "Regular" 6 255.98 "Visa" "Female" "Never married" 23 200 260.636375491758
+"492" 492 "Promotional" 2 183.34 "Discover" "Female" "Divorced" 47 300 191.040478271309
+"493" 493 "Regular" 9 285.55 "Visa" "Female" "Divorced" 71 400 299.515737282818
+"494" 494 "Regular" 9 178.65 "Visa" "Male" "Never married" 75 100 203.086747432868
+"495" 495 "Regular" 7 286.02 "Discover" "Female" "Married" 40 400 309.254886094084
+"496" 496 "Promotional" 7 211.21 "MasterCard" "Female" "Divorced" 31 200 230.937772901497
+"497" 497 "Regular" 2 149.35 "Proprietary Card" "Male" "Divorced" 80 100 178.177174839408
+"498" 498 "Promotional" 4 198.25 "MasterCard" "Female" "Divorced" 41 100 213.662046216177
+"499" 499 "Regular" 8 123.56 "Discover" "Male" "Divorced" 58 300 133.791191545196
+"500" 500 "Promotional" 5 114.73 "Discover" "Female" "Married" 32 300 133.659348495395
