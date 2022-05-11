@@ -1,0 +1,52 @@
+State	Percent 
+Alabama	32.2
+Alaska	24.5
+Arizona	24.3
+Arkansas	30.1
+California	24
+Colorado	21
+Connecticut	22.5
+Delaware	28
+Washington, DC	22.2
+Florida	26.6
+Georgia	29.6
+Hawaii	22.7
+Idaho	26.5
+Illinois	28.2
+Indiana	29.6
+Iowa	28.4
+Kansas	29.4
+Kentucky	31.3
+Louisiana	31
+Maine	26.8
+Maryland	27.1
+Massachusetts	23
+Michigan	30.9
+Minnesota	24.8
+Mississippi	34
+Missouri	30.5
+Montana	23
+Nebraska	26.9
+Nevada	22.4
+New Hampshire	25
+New Jersey	23.8
+New Mexico	25.1
+New York	23.9
+North Carolina	27.8
+North Dakota	27.2
+Ohio	29.2
+Oklahoma	30.4
+Oregon	26.8
+Pennsylvania	28.6
+Rhode Island	25.5
+South Carolina	31.5
+South Dakota	27.3
+Tennessee	30.8
+Texas	31
+Utah	22.5
+Vermont	23.2
+Virginia	26
+Washington	25.5
+West Virginia	32.5
+Wisconsin	26.3
+Wyoming	25.1
